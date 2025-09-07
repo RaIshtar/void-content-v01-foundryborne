@@ -1,14 +1,17 @@
-2025/08/28-18:45:10.257 466c Recovering log #117
-2025/08/28-18:45:10.261 466c Delete type=0 #117
-2025/08/28-18:45:10.261 466c Delete type=3 #116
-2025/08/28-19:05:31.790 2a10 Level-0 table #121: started
-2025/08/28-19:05:31.792 2a10 Level-0 table #121: 67943 bytes OK
-2025/08/28-19:05:31.793 2a10 Delete type=0 #119
-2025/08/28-19:05:31.796 2a10 Manual compaction at level-0 from '!folders!01yrXS6FdUbfFVIZ' @ 72057594037927935 : 1 .. '!items.effects!wrd4O88gZQs1Bvb5.JFZP2aM6Znz2GxJX' @ 0 : 0; will stop at '!items.effects!wrd4O88gZQs1Bvb5.x1gC6ev4iqonw0nV' @ 754 : 1
-2025/08/28-19:05:31.796 2a10 Compacting 1@0 + 1@1 files
-2025/08/28-19:05:31.798 2a10 Generated table #122@0: 114 keys, 47165 bytes
-2025/08/28-19:05:31.798 2a10 Compacted 1@0 + 1@1 files => 47165 bytes
-2025/08/28-19:05:31.799 2a10 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/28-19:05:31.799 2a10 Delete type=2 #79
-2025/08/28-19:05:31.800 2a10 Delete type=2 #121
-2025/08/28-19:05:31.800 2a10 Manual compaction at level-0 from '!items.effects!wrd4O88gZQs1Bvb5.x1gC6ev4iqonw0nV' @ 754 : 1 .. '!items.effects!wrd4O88gZQs1Bvb5.JFZP2aM6Znz2GxJX' @ 0 : 0; will stop at (end)
+2025/09/07-16:57:59.661 30f8 Recovering log #134
+2025/09/07-16:57:59.661 30f8 Recovering log #135
+2025/09/07-16:57:59.663 30f8 Delete type=0 #134
+2025/09/07-16:57:59.663 30f8 Delete type=0 #135
+2025/09/07-16:57:59.663 30f8 Delete type=2 #137
+2025/09/07-16:57:59.663 30f8 Delete type=3 #132
+2025/09/07-17:07:11.648 41e4 Level-0 table #140: started
+2025/09/07-17:07:11.650 41e4 Level-0 table #140: 16228 bytes OK
+2025/09/07-17:07:11.650 41e4 Delete type=0 #138
+2025/09/07-17:07:11.653 41e4 Manual compaction at level-0 from '!folders!01yrXS6FdUbfFVIZ' @ 72057594037927935 : 1 .. '!items.effects!wrd4O88gZQs1Bvb5.JFZP2aM6Znz2GxJX' @ 0 : 0; will stop at '!items!cbVP4DhyuqXIyOpv' @ 819 : 1
+2025/09/07-17:07:11.653 41e4 Compacting 1@0 + 1@1 files
+2025/09/07-17:07:11.655 41e4 Generated table #141@0: 114 keys, 47637 bytes
+2025/09/07-17:07:11.655 41e4 Compacted 1@0 + 1@1 files => 47637 bytes
+2025/09/07-17:07:11.656 41e4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/09/07-17:07:11.656 41e4 Delete type=2 #136
+2025/09/07-17:07:11.656 41e4 Delete type=2 #140
+2025/09/07-17:07:11.657 41e4 Manual compaction at level-0 from '!items!cbVP4DhyuqXIyOpv' @ 819 : 1 .. '!items.effects!wrd4O88gZQs1Bvb5.JFZP2aM6Znz2GxJX' @ 0 : 0; will stop at (end)
