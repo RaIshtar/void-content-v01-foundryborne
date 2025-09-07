@@ -1,0 +1,78 @@
+{
+  "id": "void-content-v01-foundryborne",
+  "title": "Unofficial Void Content v0.1 - Foundryborne",
+  "version": "1.0.0",
+  "manifest": "https://github.com/RaIshtar/void-content-v01-foundryborne/releases/latest/download/module.json",
+  "download": "https://github.com/RaIshtar/void-content-v01-foundryborne/releases/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>Disclaimer : This is implemented \"as nicely as I could\", maybe in the future we'll be able to make Favor or Focus actual resources to make gains/losses automatic, but for now, it'll have to be manual.</p><p>Disclaimer 2 : The Dread domain and Dread cards are using non-default art assets on my end, so you'll have to add that yourself.</p>",
+  "authors": [
+    {
+      "name": "RaIshtar",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "void-ancestries",
+      "label": "Void Ancestries",
+      "path": "packs/void-ancestries",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "void-classes",
+      "label": "Void Classes",
+      "path": "packs/void-classes",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "void-communities",
+      "label": "Void Communities",
+      "path": "packs/void-communities",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "void-domains",
+      "label": "Void Domains",
+      "path": "packs/void-domains",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "void-subclasses",
+      "label": "Void Subclasses",
+      "path": "packs/void-subclasses",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
