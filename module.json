@@ -74,5 +74,20 @@
         "ASSISTANT": "OWNER"
       }
     }
+  ],
+  "packFolders": [
+    {
+      "name": "Daggerheart - Void Content",
+      "sorting": "a",
+      "color": "#1e194c",
+      "packs": [
+        "void-ancestries",
+        "void-classes",
+        "void-communities",
+        "void-domains",
+        "void-subclasses"
+      ],
+      "folders": []
+    }
   ]
 }
